@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently Working On: Exploring advanced LLMs and RAG for AI applications, Quantum Info Science, MERN Stack.<br>🚀 Leading: GDSC Lead at Google Developer Student Club, organizing tech events and hackathons, VP at ACM.<br>💻 Past Role: AI Intern at MindWise Health, developed a bot and innovative health management solutions<br>🏆 Achievements: Winner of HackMT '24, "BlueAid" for medical bill analysis<br>🎓 Courses: Neural Nets, NLP, Data Visualization, Machine Learning A-Z, Web Development Bootcamp
+🔭 Currently Working On: Exploring advanced LLMs and RAG for AI applications, Quantum Info Science, MERN Stack.<br>🚀 Leading: VP at ACM.<br>💻 Past Role: AI Intern at MindWise Health, developed a bot and innovative health management solutions<br>🏆 Achievements: Winner of HackMT '24, Hacker's rank at HackMT '25 <br>🎓 Courses: Neural Nets, NLP, Data Visualization, Machine Learning A-Z, Web Development Bootcamp
 
 
 ## 🌐 Socials:
