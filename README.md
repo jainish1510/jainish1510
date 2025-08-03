@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 Currently Working On: Writing a research paper at the intersection of environmental science, neuroscience, and medical imaging.
-🚀 Leadership: Vice President at ACM.
-💻 Previous Roles: Research Intern at VISE; AI Intern at MindWise Health.
-🏆 Achievements: Winner of HackMT '24; Hacker’s Choice Award at HackMT '25.
-🎓 Courses Completed: Neural Networks, Natural Language Processing, Data Visualization, Machine Learning A–Z, Web Development Bootcamp.
+🔭 Currently Working On: Writing a research paper at the intersection of environmental science, neuroscience, and medical imaging.<br>
+🚀 Leadership: Vice President at ACM.<br>
+💻 Previous Roles: Research Intern at VISE; AI Intern at MindWise Health.<br>
+🏆 Achievements: Winner of HackMT '24; Hacker’s Choice Award at HackMT '25.<br>
+🎓 Courses Completed: Neural Networks, Natural Language Processing, Data Visualization, Machine Learning A–Z, Web Development Bootcamp.<br>
 
 
 ## 🌐 Socials:
