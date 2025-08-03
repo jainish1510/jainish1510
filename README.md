@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 Currently Working On: Exploring advanced LLMs and RAG for AI applications, Quantum Info Science, MERN Stack.<br>🚀 Leading: VP at ACM.<br>💻 Past Role: AI Intern at MindWise Health, developed a bot and innovative health management solutions<br>🏆 Achievements: Winner of HackMT '24, Hacker's rank at HackMT '25 <br>🎓 Courses: Neural Nets, NLP, Data Visualization, Machine Learning A-Z, Web Development Bootcamp
+🔭 Currently Working On: Writing a research paper at the intersection of environmental science, neuroscience, and medical imaging.
+🚀 Leadership: Vice President at ACM.
+💻 Previous Roles: Research Intern at VISE; AI Intern at MindWise Health.
+🏆 Achievements: Winner of HackMT '24; Hacker’s Choice Award at HackMT '25.
+🎓 Courses Completed: Neural Networks, Natural Language Processing, Data Visualization, Machine Learning A–Z, Web Development Bootcamp.
 
 
 ## 🌐 Socials:
